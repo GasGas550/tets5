@@ -4,7 +4,7 @@
 // Если ты на VDS, это "http://YOUR_SERVER_IP:8080"
 // ВАЖНО: Если бэкенд на HTTP, а фронтенд на HTTPS, будут проблемы.
 // В идеале, и то, и то должно быть за HTTPS.
-const API_BASE_URL = "https://496722cc-3e75-470d-bac5-fee06847021c.tunnel4.com"; 
+const API_BASE_URL = "https://7da61ebd-88b0-4663-abef-03d51f59bb89.tunnel4.com"; 
 
 // Глобальные переменные
 let currentCardIndex = 0;
@@ -121,3 +121,4 @@ nextButton.addEventListener('click', () => {
 // Запускаем!
 
 main();
+
